@@ -16,7 +16,7 @@ style = "github-dark"
   info = "Senior Software Engineer"
   description = "Rakhesh's personal website"
   keywords = "blog,developer,personal"
-  avatarurl = "/images/N90.jpg"
+  avatarurl = "/images/rakesh.jpg"
   #gravatar = "rakhesh.koyyala@gmail.com"
 
   faviconSVG = "/img/favicon.svg"
