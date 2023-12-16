@@ -15,7 +15,7 @@ author = "Hugo Authors"
     - Utilized AWS for code commit and code pipeline
     - Implemented backend using Java, Spring boot, Microservices
 
-- Software Engineer, [LTIMindtree](https://www.ltimindtree.com/) | ***September 2021 - June 2023***
+- Software Engineer, [LTIMindtree](https://www.ltimindtree.com/) | ***September 2021 - June 2022***
     - Web application development and Data Integration
     - Web development with Java and Spring boot
     - Data integrity with tools like Reltio
